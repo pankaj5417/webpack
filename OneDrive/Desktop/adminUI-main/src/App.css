@@ -1,0 +1,11 @@
+
+
+.admin-wrap{
+  width: 80%;
+  border: 1px solid gray;
+  margin: auto;
+  border-radius: 5px;
+}
+.ant-table-content{
+  width: 100%;
+}
